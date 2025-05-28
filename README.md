@@ -22,6 +22,7 @@ If you have a bunch of Python scripts (for example, EULA or privacy scanners) or
 2. Make sure each subfolder contains at least one Python script and that those scripts output their results as `.txt` files in the same subfolder.
 3. Double-click the batch file or run it from the command line.
 4. When it’s done, look for a file named like `YYYY-MM-DD - EULA Results.txt` in the root directory. This will contain all the merged results.
+5. Reference the `AI-Prompt.md` file for access to an English prompt, to present the AI with when providing the EULA dump for analysis. 
 
 ## Notes
 
